@@ -12,3 +12,7 @@ Third string
 C4: third string in readme.md
 Last string
 C10: add last string
+Second string
+Third string
+Last string
+
